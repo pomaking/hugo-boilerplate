@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Your site</title>
-    <link>https://enten.github.io/hugo-boilerplate/post/</link>
-    <description>Recent content in Posts on Your site</description>
+    <title>One on Your site</title>
+    <link>https://enten.github.io/hugo-boilerplate/tags/one/</link>
+    <description>Recent content in One on Your site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
     <managingEditor>yourname@example.com (Your Name)</managingEditor>
     <webMaster>yourname@example.com (Your Name)</webMaster>
     <lastBuildDate>Wed, 26 Aug 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://enten.github.io/hugo-boilerplate/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://enten.github.io/hugo-boilerplate/tags/one/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Third</title>
@@ -22,20 +22,6 @@
 &lt;h2 id=&#34;third-post&#34;&gt;Third post&lt;/h2&gt;
 
 &lt;p&gt;Content of post 3&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Second</title>
-      <link>https://enten.github.io/hugo-boilerplate/2015/08/25/second/</link>
-      <pubDate>Tue, 25 Aug 2015 00:00:00 +0000</pubDate>
-      <author>yourname@example.com (Your Name)</author>
-      <guid>https://enten.github.io/hugo-boilerplate/2015/08/25/second/</guid>
-      <description>
-
-&lt;h2 id=&#34;second-post&#34;&gt;Second post&lt;/h2&gt;
-
-&lt;p&gt;Content of post 2&lt;/p&gt;
 </description>
     </item>
     
