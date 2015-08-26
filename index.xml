@@ -22,20 +22,6 @@
     </item>
     
     <item>
-      <title>Third</title>
-      <link>https://enten.github.io/hugo-boilerplate/2015/08/26/third/</link>
-      <pubDate>Wed, 26 Aug 2015 00:00:00 +0000</pubDate>
-      <author>yourname@example.com (Your Name)</author>
-      <guid>https://enten.github.io/hugo-boilerplate/2015/08/26/third/</guid>
-      <description>
-
-&lt;h2 id=&#34;third-post&#34;&gt;Third post&lt;/h2&gt;
-
-&lt;p&gt;Content of post 3&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Second</title>
       <link>https://enten.github.io/hugo-boilerplate/2015/08/25/second/</link>
       <pubDate>Tue, 25 Aug 2015 00:00:00 +0000</pubDate>
