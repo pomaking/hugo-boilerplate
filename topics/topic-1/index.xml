@@ -25,5 +25,31 @@
 </description>
     </item>
     
+    <item>
+      <title>First</title>
+      <link>http://enten.github.io/hugo-boilerplate/2015/08/24/first/</link>
+      <pubDate>Mon, 24 Aug 2015 00:00:00 +0000</pubDate>
+      <author>yourname@example.com (Your Name)</author>
+      <guid>http://enten.github.io/hugo-boilerplate/2015/08/24/first/</guid>
+      <description>
+
+&lt;h2 id=&#34;hello-first-post&#34;&gt;Hello first post&lt;/h2&gt;
+
+&lt;p&gt;Content of post 1&lt;/p&gt;
+
+&lt;h1 id=&#34;titre-1-un-peu-long&#34;&gt;Titre 1 un peu long&lt;/h1&gt;
+
+&lt;h2 id=&#34;titre-2-un-peu-long&#34;&gt;Titre 2 un peu long&lt;/h2&gt;
+
+&lt;h3 id=&#34;titre-3-un-peu-long&#34;&gt;Titre 3 un peu long&lt;/h3&gt;
+
+&lt;h4 id=&#34;titre-4-un-peu-long&#34;&gt;Titre 4 un peu long&lt;/h4&gt;
+
+&lt;h5 id=&#34;titre-5-un-peu-long&#34;&gt;Titre 5 un peu long&lt;/h5&gt;
+
+&lt;h6 id=&#34;titre-6-un-peu-long&#34;&gt;Titre 6 un peu long&lt;/h6&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
