@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Go on Your site</title>
+    <link>http://enten.github.io/hugo-boilerplate/tags/go/</link>
+    <description>Recent content in Go on Your site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>yourname@example.com (Your Name)</managingEditor>
+    <webMaster>yourname@example.com (Your Name)</webMaster>
+    <lastBuildDate>Wed, 26 Aug 2015 15:08:27 +0200</lastBuildDate>
+    <atom:link href="http://enten.github.io/hugo-boilerplate/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hugo</title>
+      <link>http://enten.github.io/hugo-boilerplate/code/hugo/</link>
+      <pubDate>Wed, 26 Aug 2015 15:08:27 +0200</pubDate>
+      <author>yourname@example.com (Your Name)</author>
+      <guid>http://enten.github.io/hugo-boilerplate/code/hugo/</guid>
+      <description>&lt;p&gt;Description of my awesome project&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

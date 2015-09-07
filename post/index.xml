@@ -25,19 +25,5 @@
 </description>
     </item>
     
-    <item>
-      <title>First</title>
-      <link>http://enten.github.io/hugo-boilerplate/2015/08/24/first/</link>
-      <pubDate>Mon, 24 Aug 2015 00:00:00 +0000</pubDate>
-      <author>yourname@example.com (Your Name)</author>
-      <guid>http://enten.github.io/hugo-boilerplate/2015/08/24/first/</guid>
-      <description>
-
-&lt;h2 id=&#34;hello-first-post&#34;&gt;Hello first post&lt;/h2&gt;
-
-&lt;p&gt;Content of post 1&lt;/p&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>

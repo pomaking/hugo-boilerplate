@@ -12,11 +12,11 @@
     <atom:link href="http://enten.github.io/hugo-boilerplate/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>helloworld</title>
-      <link>http://enten.github.io/hugo-boilerplate/helloworld</link>
+      <title>Hugo</title>
+      <link>http://enten.github.io/hugo-boilerplate/code/hugo/</link>
       <pubDate>Wed, 26 Aug 2015 15:08:27 +0200</pubDate>
       <author>yourname@example.com (Your Name)</author>
-      <guid>http://enten.github.io/hugo-boilerplate/helloworld</guid>
+      <guid>http://enten.github.io/hugo-boilerplate/code/hugo/</guid>
       <description>&lt;p&gt;Description of my awesome project&lt;/p&gt;
 </description>
     </item>
@@ -36,26 +36,174 @@
     </item>
     
     <item>
-      <title>First</title>
-      <link>http://enten.github.io/hugo-boilerplate/2015/08/24/first/</link>
-      <pubDate>Mon, 24 Aug 2015 00:00:00 +0000</pubDate>
-      <author>yourname@example.com (Your Name)</author>
-      <guid>http://enten.github.io/hugo-boilerplate/2015/08/24/first/</guid>
-      <description>
-
-&lt;h2 id=&#34;hello-first-post&#34;&gt;Hello first post&lt;/h2&gt;
-
-&lt;p&gt;Content of post 1&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>About</title>
       <link>http://enten.github.io/hugo-boilerplate/about/</link>
       <pubDate>Mon, 24 Aug 2015 00:00:00 +0000</pubDate>
       <author>yourname@example.com (Your Name)</author>
       <guid>http://enten.github.io/hugo-boilerplate/about/</guid>
-      <description>&lt;p&gt;Content about you.&lt;/p&gt;
+      <description>
+
+&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
+
+&lt;p&gt;
+&lt;span class=&#34;label&#34;&gt;appc&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;activemq&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;agile&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;ajax&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;android&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;angular&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;bootstrap&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;bower&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;cakephp&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;codeigniter&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;composer&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;continuous&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;deployment&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;css&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;debian&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;docker&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;flux&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;fuelphp&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;git&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;github&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;gohugo&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;google&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;maps&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;api&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;grunt&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;gulp&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;html&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;iojs&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;java&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;javascript&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;jenkins&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;jeykill&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;jquery&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;json&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;junit&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;koa&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;less&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;linux&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;lxc&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;open&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;container&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;maven&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;memcached&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;meterial&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;design&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;mesos&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;meteor&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;modelisation&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;mongodb&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;mysql&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;node&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;nosql&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;npm&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;php&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;poo&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;postgresql&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;prestashop&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;qemu&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;rkt&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;react&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;responsive&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;design&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;rest&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;runc&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;rom&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;cooking&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;sass&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;scrum&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;spring&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;sql&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;travis&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;ubuntu&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;uml&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;vagrant&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;virtualisation&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;web&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;services&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;xml&lt;/span&gt;
+
+
+&lt;/p&gt;
 </description>
     </item>
     
