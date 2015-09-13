@@ -13,11 +13,6 @@
   </url>
   
   <url>
-    <loc>http://enten.github.io/hugo-boilerplate/2015/08/26/third/</loc>
-    <lastmod>2015-08-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://enten.github.io/hugo-boilerplate/2015/08/25/second/</loc>
     <lastmod>2015-08-25T00:00:00+00:00</lastmod>
   </url>
@@ -30,6 +25,20 @@
   <url>
     <loc>http://enten.github.io/hugo-boilerplate/2015/08/24/first/</loc>
     <lastmod>2015-08-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://enten.github.io/hugo-boilerplate/2014/09/02/another-hugo-post/</loc>
+    <lastmod>2014-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://enten.github.io/hugo-boilerplate/2014/09/01/hello-hugo/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://enten.github.io/hugo-boilerplate/license/</loc>
   </url>
   
 </urlset>
