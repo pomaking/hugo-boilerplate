@@ -1126,6 +1126,10 @@ progress {
 .main_wrapper code,
 .main_wrapper label,
 .main_wrapper textarea,
+.main_wrapper li p,
+.main_wrapper li .p-like,
+.main_wrapper li ul,
+.main_wrapper li ol,
 .main_wrapper > .main_header > .container > .container,
 .main_wrapper > .main_footer > .container > .container,
 .main_wrapper .container > .container:last-child {
