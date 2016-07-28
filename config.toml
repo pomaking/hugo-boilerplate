@@ -14,7 +14,7 @@ languageCode = "en-EN"
 metaDataFormat = "yaml"
 
 # theme to use (located in /themes/THEMENAME/)
-theme = "hyde-y"
+theme = "material-design"
 
 # pagination
 paginate = 10
