@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Generator on sitename</title>
-    <link>http://enten.github.io/hugo-boilerplate/tags/generator/</link>
+    <link>https://enten.github.io/hugo-boilerplate/tags/generator/</link>
     <description>Recent content in Generator on sitename</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
@@ -10,14 +10,14 @@
     <webMaster>yourname@example.com (yourname)</webMaster>
     <copyright>(c) 2015 yourname.</copyright>
     <lastBuildDate>Wed, 26 Aug 2015 15:08:27 +0200</lastBuildDate>
-    <atom:link href="http://enten.github.io/hugo-boilerplate/tags/generator/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://enten.github.io/hugo-boilerplate/tags/generator/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hugo</title>
-      <link>http://enten.github.io/hugo-boilerplate/hugo/</link>
+      <link>https://enten.github.io/hugo-boilerplate/hugo/</link>
       <pubDate>Wed, 26 Aug 2015 15:08:27 +0200</pubDate>
       <author>yourname@example.com (yourname)</author>
-      <guid>http://enten.github.io/hugo-boilerplate/hugo/</guid>
+      <guid>https://enten.github.io/hugo-boilerplate/hugo/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/spf13/hugo/master/docs/static/img/hugo-logo.png&#34; alt=&#34;Hugo&#34; /&gt;&lt;/p&gt;

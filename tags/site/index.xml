@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Site on sitename</title>
-    <link>http://enten.github.io/hugo-boilerplate/tags/site/</link>
+    <link>https://enten.github.io/hugo-boilerplate/tags/site/</link>
     <description>Recent content in Site on sitename</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
@@ -10,25 +10,25 @@
     <webMaster>yourname@example.com (yourname)</webMaster>
     <copyright>(c) 2015 yourname.</copyright>
     <lastBuildDate>Mon, 14 Sep 2015 15:08:27 +0200</lastBuildDate>
-    <atom:link href="http://enten.github.io/hugo-boilerplate/tags/site/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://enten.github.io/hugo-boilerplate/tags/site/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hugo Boilerplate</title>
-      <link>http://enten.github.io/hugo-boilerplate/hugo-boilerplate/</link>
+      <link>https://enten.github.io/hugo-boilerplate/hugo-boilerplate/</link>
       <pubDate>Mon, 14 Sep 2015 15:08:27 +0200</pubDate>
       <author>yourname@example.com (yourname)</author>
-      <guid>http://enten.github.io/hugo-boilerplate/hugo-boilerplate/</guid>
+      <guid>https://enten.github.io/hugo-boilerplate/hugo-boilerplate/</guid>
       <description>
 
 &lt;p&gt;Boilerplate to start fast with &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h2 id=&#34;demo-http-enten-github-io-hugo-boilerplate&#34;&gt;&lt;a href=&#34;http://enten.github.io/hugo-boilerplate/&#34;&gt;Demo&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;demo-http-enten-github-io-hugo-boilerplate:0306c62339fddd9fdbd4e96f726ada1f&#34;&gt;&lt;a href=&#34;http://enten.github.io/hugo-boilerplate/&#34;&gt;Demo&lt;/a&gt;&lt;/h2&gt;
 
-&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;h2 id=&#34;screenshot:0306c62339fddd9fdbd4e96f726ada1f&#34;&gt;Screenshot&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/enten/hugo-boilerplate/master/themes/hyde-y/images/screenshot.png&#34; alt=&#34;preview&#34; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+&lt;h2 id=&#34;requirements:0306c62339fddd9fdbd4e96f726ada1f&#34;&gt;Requirements&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://git-scm.com&#34;&gt;git&lt;/a&gt;&lt;/li&gt;
@@ -37,7 +37,7 @@
 &lt;li&gt;&lt;a href=&#34;https://www.npmjs.com/about&#34;&gt;npm&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;
+&lt;h2 id=&#34;installation:0306c62339fddd9fdbd4e96f726ada1f&#34;&gt;Installation&lt;/h2&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;# clone hugo-boilerplate into new project folder
 git clone https://github.com/enten/hugo-boilerplate awesome-site
@@ -56,9 +56,9 @@ Press Ctrl+C to stop
 
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;h2 id=&#34;deployment&#34;&gt;Deployment&lt;/h2&gt;
+&lt;h2 id=&#34;deployment:0306c62339fddd9fdbd4e96f726ada1f&#34;&gt;Deployment&lt;/h2&gt;
 
-&lt;h3 id=&#34;github-pages-https-pages-github-com&#34;&gt;&lt;a href=&#34;https://pages.github.com/&#34;&gt;GitHub Pages&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;github-pages-https-pages-github-com:0306c62339fddd9fdbd4e96f726ada1f&#34;&gt;&lt;a href=&#34;https://pages.github.com/&#34;&gt;GitHub Pages&lt;/a&gt;&lt;/h3&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;cd awesome-site
 
@@ -79,7 +79,7 @@ npm run deploy:gh
 &lt;li&gt;static site is rebuilt in &lt;code&gt;public/&lt;/code&gt; folder when &lt;code&gt;deploy:gh&lt;/code&gt; is fired&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;ftp&#34;&gt;FTP&lt;/h3&gt;
+&lt;h3 id=&#34;ftp:0306c62339fddd9fdbd4e96f726ada1f&#34;&gt;FTP&lt;/h3&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;cd awesome-site
 
@@ -109,7 +109,7 @@ npm run deploy
 &lt;li&gt;&lt;strong&gt;BUG&lt;/strong&gt;: several attempts are needed to deploy all files&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;h2 id=&#34;license:0306c62339fddd9fdbd4e96f726ada1f&#34;&gt;License&lt;/h2&gt;
 
 &lt;p&gt;Open sourced under the &lt;a href=&#34;https://github.com/enten/hugo-boilerplate/blob/master/LICENSE&#34;&gt;MIT license&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -117,10 +117,10 @@ npm run deploy
     
     <item>
       <title>Hugo</title>
-      <link>http://enten.github.io/hugo-boilerplate/hugo/</link>
+      <link>https://enten.github.io/hugo-boilerplate/hugo/</link>
       <pubDate>Wed, 26 Aug 2015 15:08:27 +0200</pubDate>
       <author>yourname@example.com (yourname)</author>
-      <guid>http://enten.github.io/hugo-boilerplate/hugo/</guid>
+      <guid>https://enten.github.io/hugo-boilerplate/hugo/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/spf13/hugo/master/docs/static/img/hugo-logo.png&#34; alt=&#34;Hugo&#34; /&gt;&lt;/p&gt;

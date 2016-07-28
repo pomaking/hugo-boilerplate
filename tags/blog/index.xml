@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on sitename</title>
-    <link>http://enten.github.io/hugo-boilerplate/tags/blog/</link>
+    <link>https://enten.github.io/hugo-boilerplate/tags/blog/</link>
     <description>Recent content in Blog on sitename</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
@@ -10,14 +10,14 @@
     <webMaster>yourname@example.com (yourname)</webMaster>
     <copyright>(c) 2015 yourname.</copyright>
     <lastBuildDate>Mon, 01 Sep 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://enten.github.io/hugo-boilerplate/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://enten.github.io/hugo-boilerplate/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hello Hugo!</title>
-      <link>http://enten.github.io/hugo-boilerplate/2014/09/01/hello-hugo/</link>
+      <link>https://enten.github.io/hugo-boilerplate/2014/09/01/hello-hugo/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
       <author>yourname@example.com (yourname)</author>
-      <guid>http://enten.github.io/hugo-boilerplate/2014/09/01/hello-hugo/</guid>
+      <guid>https://enten.github.io/hugo-boilerplate/2014/09/01/hello-hugo/</guid>
       <description>
 
 &lt;p&gt;Hello from Hugo! If you&amp;rsquo;re reading this in your browser, good job! The file &lt;code&gt;content/post/hello-hugo.md&lt;/code&gt; has been

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Topic 1 on sitename</title>
-    <link>http://enten.github.io/hugo-boilerplate/topics/topic-1/</link>
+    <link>https://enten.github.io/hugo-boilerplate/topics/topic-1/</link>
     <description>Recent content in Topic 1 on sitename</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
@@ -10,33 +10,33 @@
     <webMaster>yourname@example.com (yourname)</webMaster>
     <copyright>(c) 2015 yourname.</copyright>
     <lastBuildDate>Tue, 25 Aug 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://enten.github.io/hugo-boilerplate/topics/topic-1/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://enten.github.io/hugo-boilerplate/topics/topic-1/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Second</title>
-      <link>http://enten.github.io/hugo-boilerplate/2015/08/25/second/</link>
+      <link>https://enten.github.io/hugo-boilerplate/2015/08/25/second/</link>
       <pubDate>Tue, 25 Aug 2015 00:00:00 +0000</pubDate>
       <author>yourname@example.com (yourname)</author>
-      <guid>http://enten.github.io/hugo-boilerplate/2015/08/25/second/</guid>
+      <guid>https://enten.github.io/hugo-boilerplate/2015/08/25/second/</guid>
       <description>
 
-&lt;h2 id=&#34;title-2&#34;&gt;Title 2&lt;/h2&gt;
+&lt;h2 id=&#34;title-2:9f7936f9b5c071ae81db818b80a44a0d&#34;&gt;Title 2&lt;/h2&gt;
 
 &lt;p&gt;Content of post 2&lt;/p&gt;
 
-&lt;h3 id=&#34;title-3&#34;&gt;Title 3&lt;/h3&gt;
+&lt;h3 id=&#34;title-3:9f7936f9b5c071ae81db818b80a44a0d&#34;&gt;Title 3&lt;/h3&gt;
 
 &lt;p&gt;Content of post 2&lt;/p&gt;
 
-&lt;h4 id=&#34;title-4&#34;&gt;Title 4&lt;/h4&gt;
+&lt;h4 id=&#34;title-4:9f7936f9b5c071ae81db818b80a44a0d&#34;&gt;Title 4&lt;/h4&gt;
 
 &lt;p&gt;Content of post 2&lt;/p&gt;
 
-&lt;h5 id=&#34;title-5&#34;&gt;Title 5&lt;/h5&gt;
+&lt;h5 id=&#34;title-5:9f7936f9b5c071ae81db818b80a44a0d&#34;&gt;Title 5&lt;/h5&gt;
 
 &lt;p&gt;Content of post 2&lt;/p&gt;
 
-&lt;h6 id=&#34;title-6&#34;&gt;Title 6&lt;/h6&gt;
+&lt;h6 id=&#34;title-6:9f7936f9b5c071ae81db818b80a44a0d&#34;&gt;Title 6&lt;/h6&gt;
 
 &lt;p&gt;Content of post 2&lt;/p&gt;
 </description>
@@ -44,15 +44,15 @@
     
     <item>
       <title>First</title>
-      <link>http://enten.github.io/hugo-boilerplate/2015/08/24/first/</link>
+      <link>https://enten.github.io/hugo-boilerplate/2015/08/24/first/</link>
       <pubDate>Mon, 24 Aug 2015 00:00:00 +0000</pubDate>
       <author>yourname@example.com (yourname)</author>
-      <guid>http://enten.github.io/hugo-boilerplate/2015/08/24/first/</guid>
+      <guid>https://enten.github.io/hugo-boilerplate/2015/08/24/first/</guid>
       <description>&lt;p&gt;&lt;h2&gt;Level 02 Heading&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum &lt;em&gt;emphasised text&lt;/em&gt; dolor sit amet, &lt;strong&gt;strong text&lt;/strong&gt;
 consectetur adipisicing elit, &lt;abbr title=&#34;&#34;&gt;abbreviated text&lt;/abbr&gt; sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut
-&lt;q&gt;quoted text&lt;/q&gt; enim ad minim veniam, quis nostrud exercitation &lt;a href=&#34;http://enten.github.io/hugo-boilerplate/&#34;&gt;link text&lt;/a&gt;
+&lt;q&gt;quoted text&lt;/q&gt; enim ad minim veniam, quis nostrud exercitation &lt;a href=&#34;https://enten.github.io/hugo-boilerplate/&#34;&gt;link text&lt;/a&gt;
 ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
 &lt;ins&gt;inserted text&lt;/ins&gt; irure dolor in reprehenderit in voluptate velit esse cillum
 dolore eu fugiat nulla pariatur. Excepteur sint occaecat &lt;code&gt;code text&lt;/code&gt; cupidatat
@@ -66,7 +66,7 @@ Suspendisse rhoncus, est ac sollicitudin viverra, leo orci sagittis massa, sed c
 &lt;p&gt;I am not one who was born in the possession of knowledge; I am one who is fond of antiquity, and earnest in seeking it there.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;cite&gt;&lt;a href=&#34;http://enten.github.io/hugo-boilerplate/&#34;&gt;Confucius, The Confucian Analects&lt;/a&gt;&lt;/cite&gt;,  (551 BC - 479 BC)&lt;/p&gt;
+&lt;p&gt;&lt;cite&gt;&lt;a href=&#34;https://enten.github.io/hugo-boilerplate/&#34;&gt;Confucius, The Confucian Analects&lt;/a&gt;&lt;/cite&gt;,  (551 BC - 479 BC)&lt;/p&gt;
 
 &lt;h3&gt;Level 03 Heading&lt;/h3&gt;
 
