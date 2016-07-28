@@ -1,27 +1,31 @@
 # hostname (and path) to the root eg. http://spf13.com/
-baseurl = "http://enten.fr/hugo-boilerplate/"
+baseurl = "http://www.example.com"
 
 # Site title
 title = "sitename"
 
-# Copyright
+# Copyright
 copyright = "(c) 2015 yourname."
 
 # Language
 languageCode = "en-EN"
 
+# SES friendly url:s
+canonifyurls = true
+
+# Frontmatter format
 # "yaml", "toml", "json"
-metaDataFormat = "yaml"
+metaDataFormat = "toml"
 
-# theme to use (located in /themes/THEMENAME/)
-theme = "material-design"
+# Theme to use (located in /themes/THEMENAME/)
+# theme = "hugo-bootstrap"
 
-# pagination
+# Pagination
 paginate = 10
 paginatePath = "page"
 
 # Enable Disqus integration
-disqusShortname = "enten"
+disqusShortname = "your_disqus_shortname"
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
@@ -43,10 +47,6 @@ disqusShortname = "enten"
     brand = "foobar"
     topline = "few words about your site"
     footline = "code with <i class='fa fa-heart'></i>"
-
-    # Sidebar position
-    # false, true, "left", "right"
-    sidebar = "left"
 
     # Text for the top menu link, which goes the root URL for the site.
     # Default (if omitted) is "Home".
